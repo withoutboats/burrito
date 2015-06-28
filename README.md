@@ -1,9 +1,9 @@
 # Burrito: a monadic IO interface.
 
-Burrito is a monad. Monads are [basically burritoes](). This monad wraps an IO
-handle, hiding its potential state of failure from you for as long as you want.
-This isn't _exactly_ like the IO monad from Haskell, but its very similar
-conceptually.
+Burrito is a monad. Monads are [basically burritoes](blog.plover.com/prog/burritos.html).
+This monad wraps an IO handle, hiding its potential state of failure from you
+for as long as you want. This isn't _exactly_ like the IO monad from Haskell,
+but its very similar conceptually.
 
 [Documentation!](https://withoutboats.github.io/burrito/)
 
