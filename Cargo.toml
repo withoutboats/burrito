@@ -1,0 +1,4 @@
+[package]
+name = "burrito"
+version = "0.1.0"
+authors = ["Lee <lee@libertad.ucsd.edu>"]
