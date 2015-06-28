@@ -3,3 +3,6 @@ name = "burrito"
 version = "0.1.0"
 authors = ["Lee <lee@libertad.ucsd.edu>"]
 license = "GPLv3.0+ WITH Classpath-exception-2.0"
+description = "A monadic IO interface."
+documentation = "https://withoutboats.github.io/burrito/"
+repository = "https://github.com/withoutboats/burrito/"
