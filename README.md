@@ -50,3 +50,8 @@ non-blocking burritoes, probably on top of `mio`.
 
 This library is licensed under the GPL version 3 or greater with the CLASSPATH
 linking exception.
+
+### Jokes
+
+This library is a joke. But you can also use it actually. Like it works and
+stuff.
