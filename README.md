@@ -5,7 +5,7 @@ handle, hiding its potential state of failure from you for as long as you want.
 This isn't _exactly_ like the IO monad from Haskell, but its very similar
 conceptually.
 
-[Documentation!]()
+[Documentation!](https://withoutboats.github.io/burrito/)
 
 ### Creating a Burrito
 
