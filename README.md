@@ -17,7 +17,7 @@ You can instantiate a burrito one of several ways:
 handles.
 * `Burrito::wrap_func()` takes a function which returns an `io::Result<T>` and
 wraps the IO handle returned by that function.
-* Several standard IO types implement thet traits `FromPath` or `FromAddr`.
+* Several standard IO types implement the traits `FromPath` or `FromAddr`.
 `Burrito::from_path` and `Burrito::from_addr` will transform a path or socket
 address into an IO handle and wrap a burrito around it.
 
