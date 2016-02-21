@@ -42,7 +42,7 @@
 //!
 //! ## `and_then()`
 //!
-//! The prefered way to access the data inside a burrito is the `and_then` method. `and_thenn`
+//! The prefered way to access the data inside a burrito is the `and_then` method. `and_then`
 //! takes a function of `A` and `Burrito<(), T>` to any `Burrito`, and applies that function to the
 //! `A` data inside the `Burrito` and a new `Burrito` wrapped around the IO handle.
 //!
